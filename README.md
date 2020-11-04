@@ -1,4 +1,6 @@
 # CSGO-Offsets
+These will be updated everytime CSGO is updated
+
 dwClientState  0x58DFE4
 
 dwClientState_GetLocalPlayer  0x180
